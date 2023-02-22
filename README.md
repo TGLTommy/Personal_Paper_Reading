@@ -5,4 +5,4 @@
 ## 3. Personal Demo Projects Sharing
 ## 4. E-books Sharing 
 
-<font color=red>## ( Disclaimer : All Sharing just for self-studying or self-learning, Not for commercial purpose )<font>
+## ( Disclaimer : All Sharing just for self-studying or self-learning, Not for commercial purpose )
