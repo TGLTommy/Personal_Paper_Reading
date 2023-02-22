@@ -32,7 +32,9 @@
 
    [github项目](https://github.com/thunlp/OpenPrompt)
 
+4. [斯坦福 An Explanation of In-context Learning as Implicit Bayesian Inference](https://arxiv.org/pdf/2111.02080.pdf)
 
+   [github项目](https://github.com/p-lambda/incontext-learning)
 
 
 
