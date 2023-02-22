@@ -1,4 +1,4 @@
-# Prompt_Learning_Resources
+# Prompt Learning  ||||   In-Context Learning
 
 **<font color=red size=4>Purpose: Share what I've learned</font>**
 
