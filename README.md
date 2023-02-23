@@ -23,7 +23,7 @@
 
    Img_01 : Transformers Family Tree
 
-   ![avatar](./images/img_01.png)
+      ![avatar](./images/img_01.png)
 
 ​		Img_02 : Transformer timeline
 
