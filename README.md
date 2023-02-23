@@ -23,11 +23,11 @@
 
    Img_01 : Transformers Family Tree
 
-   ![avatar](images/img_01.png)
+   ![avatar](./images/img_01.png)
 
 ​		Img_02 : Transformer timeline
 
-​		![avatar](images/img_02.png)
+​		![avatar](./images/img_02.png)
 
 ​	2. [复旦 A Survey of Transformers](https://arxiv.org/pdf/2106.04554.pdf)
 
