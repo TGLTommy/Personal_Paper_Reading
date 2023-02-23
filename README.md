@@ -6,9 +6,42 @@
 
 -------------    **Updating Forever**    --------------
 
+# Topic-1 — Transformers
+
+## 1. Articles List 文章列表
+
+1. [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
+2. [Interfaces for Explaining Transformer Language Models](https://jalammar.github.io/explaining-transformers/)
 
 
-# Topic-1 — Prompt / In-Context Learning
+
+
+
+## 2. Papers List 论文列表
+
+1. [Transformer Models : An Introduction and catalog](https://arxiv.org/pdf/2302.07730.pdf)
+
+   Img_01 : Transformers Family Tree
+
+   ![avatar](images/img_01.png)
+
+​		Img_02 : Transformer timeline
+
+​		![avatar](images/img_02.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Topic-2 — Prompt / In-Context Learning
 
 
 
@@ -44,7 +77,7 @@
 
 
 
-# Topic-2 — Sentiment Analysis
+# Topic-3 — Sentiment Analysis
 
 
 
