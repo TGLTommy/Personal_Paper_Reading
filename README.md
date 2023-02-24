@@ -21,16 +21,16 @@
 
 1. [Transformer Models : An Introduction and catalog](https://arxiv.org/pdf/2302.07730.pdf)
 
-   Img_01 : Transformers Family Tree
-   
-      ![avatar](./images/img_01.png)
-   
-      Img_02 : Transformer timeline
-   
-      ![avatar](./images/img_02.png)
+Img_01 : Transformers Family Tree
 
-	2. [复旦 A Survey of Transformers](https://arxiv.org/pdf/2106.04554.pdf)
-	2.  [微软 Foundation Transformers](https://arxiv.org/pdf/2210.06423.pdf)
+   ![avatar](./images/img_01.png)
+
+   Img_02 : Transformer timeline
+
+   ![avatar](./images/img_02.png)
+
+2. [复旦 A Survey of Transformers](https://arxiv.org/pdf/2106.04554.pdf)
+3.  [微软 Foundation Transformers](https://arxiv.org/pdf/2210.06423.pdf)
 
 ​		[github项目](https://github.com/microsoft/unilm)
 
